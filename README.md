@@ -12,7 +12,7 @@ Take into consideration the following global rules for all components / features
 - Each component should use the [pug-loader](https://github.com/pugjs/pug-loader) to read the template and generate HTML.
 - Each component should be implemented using the mobile first approach.
 - Each component should be responsive using the following viewports:
-  - Small: 0 - 639px
+  - Small: 320px - 639px
   - Medium: 640px - 1023px
   - Large: 1024 - ∞
 
