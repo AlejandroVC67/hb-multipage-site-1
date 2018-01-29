@@ -1,0 +1,23 @@
+{
+  "mainNav": {
+    "logo": {
+      "img": "",
+      "link": ""
+    },
+    "links": [
+      {
+        "label": "",
+        "href": ""
+      },
+      {
+        "label": "",
+        "links": [
+          {
+            "label": "",
+            "href": ""
+          }
+        ]
+      }
+    ]
+  }
+}
