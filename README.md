@@ -34,7 +34,7 @@ This component should be present on every page since it is a global component th
       "href": ""
     },
     {
-      "label": ''
+      "label": "",
       "links": [
         {
           "label": "",
