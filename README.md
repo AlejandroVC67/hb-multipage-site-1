@@ -4,7 +4,7 @@ In this exercise you should separate the user interface from any kind of busines
 
 Take into consideration the following global rules for all components:
 - Each component should have it's one folder.
-- Each component should receive data from an AJAX endpoint.
+- Each component should receive data from an external file and should be injected using a Template Engine.
 - Each component should be implemented using the mobile first approach.
 - Each component should be responsive using the following viewports:
   - Small: 0 - 639px
