@@ -16,7 +16,7 @@ Take into consideration the following global rules for all components / features
   - Medium: 640px - 1023px
   - Large: 1024 - ∞
 
-## Component
+## Components
 
 ### Main Menu
 This component should be present on every page since it is a global component that helps the user to navigate between different pages.
