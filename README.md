@@ -22,25 +22,25 @@ Take into consideration the following global rules for all components / features
 This component should be present on every page since it is a global component that helps the user to navigate between different pages.
 
 #### Data Structure
-```
+```json
 {
-  logo: {
-    img: '',
-    link: ''
+  "logo": {
+    "img": "",
+    "link": ""
   },
-  links: [
+  "links": [
     {
-      label: ''
-      href: '',
+      "label": "",
+      "href": ""
     },
     {
-      label: ''
-      links: [
+      "label": ''
+      "links": [
         {
-          label: ''
-          href: '',
+          "label": "",
+          "href": ""
         }
-      ],
+      ]
     }
   ]
 }
