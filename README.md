@@ -4,7 +4,7 @@ In this exercise you should separate the user interface from any kind of busines
 
 Take into consideration the following global rules for all components:
 - Each component should have it's one folder.
-- Each component should receive data using [Pug](https://pugjs.org/api/getting-started.html). Remember that you can use the [pug-loader](https://github.com/pugjs/pug-loader) for webpack. The easiest way is to use the [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin).
+- Each component should use the [pug-loader](https://github.com/pugjs/pug-loader) to read the template and generate HTML.
 - Each component should be implemented using the mobile first approach.
 - Each component should be responsive using the following viewports:
   - Small: 0 - 639px
