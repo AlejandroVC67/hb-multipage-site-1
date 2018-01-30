@@ -14,7 +14,7 @@ Take into consideration the following global rules for all components / features
 - Each component should be responsive using the following viewports:
   - Small: 320px - 639px
   - Medium: 640px - 1023px
-  - Large: 1024px - Inf
+  - Large: 1024px - Infinite
 
 ## Components
 
