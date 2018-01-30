@@ -14,7 +14,7 @@ Take into consideration the following global rules for all components / features
 - Each component should be responsive using the following viewports:
   - Small: 320px - 639px
   - Medium: 640px - 1023px
-  - Large: 1024 - ∞
+  - Large: 1024px - Infinite
 
 ## Components
 
@@ -56,4 +56,3 @@ This component should be present on every page since it is a global component th
     - Follow the provided link, if the link doesn't have a second level of links.
     - Display the second level of links if they were provided.
   - Hovering on a link should change it's visible state.
-
