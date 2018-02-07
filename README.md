@@ -85,3 +85,6 @@ This component can be included on any page and should include images that should
   }
 }
 ```
+
+#### User Interactions
+- The user can click the CTA to be redirected to the provided URL.
